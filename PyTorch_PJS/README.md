@@ -26,3 +26,6 @@ PyTorch 학습,추론 및 TensorBoard Profiler 테스트 코드 정리 폴더
 **즉, 정리하면 이 5개 파일은 PyTorch detection 을 돌릴 때 자주 쓰이는 공통 지원 파일 5종 세트**
 *다만, 이 5개는 주인공 파일이라기 보다 학습/평가를 받쳐주는 기반 파일*
 *detection 운영용 공통 보조 파일이 맞고, PyTorch detection 핵심 유틸 묶음으로 보면 됨*
+
+# Torch_v1.py
+- PyTorch 학습/추론 전용 GUI
