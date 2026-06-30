@@ -32,7 +32,6 @@ PyTorch_PJS/
 │       └── valid/
 ├── checkpoints/
 └── results/
-```text
 
 
 ## 파일 설명
@@ -71,7 +70,6 @@ annos/
 └── xml/
     ├── train/
     └── valid/
-```text
 
   
 - 이미지 파일과 XML 파일은 같은 이름을 가져야 합니다.
