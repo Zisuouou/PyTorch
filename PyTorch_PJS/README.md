@@ -30,7 +30,7 @@ PyTorch 학습,추론 및 TensorBoard Profiler 테스트 코드 정리 폴더
 # Torch_v1.py
 - PyTorch 학습/추론 전용 GUI
 
-**PyTorch 기반 Faster R-CNN 객체 검출 학습 및 추론 파이프라인 추가**
+# PyTorch 기반 Faster R-CNN 객체 검출 학습 및 추론 파이프라인 추가
 - 주요내용:
   - Torch_Train.py : VOC XML 라벨 기반 Faster R-CNN 학습, train/valid 분리, train 전용 증강, TensorBoard 로그 기록, mAP평가, .pth checkpoint 저장
   - convert_pth_to_pt.py : 학습된 .pth모델을 TorchScript .pt형식으로 변환
